@@ -229,10 +229,10 @@
                   </div>
                 </li>
                 <li><a href="#">TV &amp; Audio</a>
-                  <div class="wrap-popup">
-                    <div class="popup">
-                      <div class="row">
-                        <div class="col-md-4 col-sm-6">
+                  <div class="wrap-popup" style="width:350%;">
+                    <div class="popup" >
+                      <div class="row" >
+                        <div class="col-md-3 col-sm-3">
                           <h3>Televisions</h3>
                           <ul class="nav">
                             <li><a href="shop_grid.html">LCD Televisions</a></li>
@@ -250,7 +250,7 @@
                             <li><a href="shop_grid.html">Day Dresses</a></li>
                           </ul>
                         </div>
-                        <div class="col-md-4 col-sm-6 has-sep">
+                        <div class="col-md-3 col-sm-3 has-sep">
                           <h3>Appliances</h3>
                           <ul class="nav">
                             <li><a href="shop_grid.html">Kitchen</a></li>
@@ -268,7 +268,25 @@
                             <li><a href="shop_grid.html">Batteries</a></li>
                           </ul>
                         </div>
-                        <div class="col-md-4 has-sep hidden-sm">
+                        <div class="col-md-3 col-sm-3 has-sep">
+                          <h3>Appliances</h3>
+                          <ul class="nav">
+                            <li><a href="shop_grid.html">Kitchen</a></li>
+                            <li><a href="shop_grid.html">Refrigerators</a></li>
+                            <li><a href="shop_grid.html">Laundry &amp; Garment</a></li>
+                            <li><a href="shop_grid.html">Vacuum Cleaners</a></li>
+                          </ul>
+                          <br>
+                          <h3>Video Accessories</h3>
+                          <ul class="nav">
+                            <li><a href="shop_grid.html">Bags &amp; Cases</a></li>
+                            <li><a href="shop_grid.html">Video Tapes</a></li>
+                            <li><a href="shop_grid.html">Memory Card</a></li>
+                            <li><a href="shop_grid.html">Readers Tripods</a></li>
+                            <li><a href="shop_grid.html">Batteries</a></li>
+                          </ul>
+                        </div>
+                        <div class="col-md-3 col-sm-3 has-sep">
                           <div class="custom-menu-right">
                             <div class="box-banner media">
                               <div class="add-desc">
