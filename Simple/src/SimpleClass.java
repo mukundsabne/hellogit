@@ -6,6 +6,7 @@ public class SimpleClass {
 System.out.println("Hello Eclipse");
 System.out.println("Another Line After Commit");
 		System.out.println("Another Line From Git");
+		System.out.println("Another Line After Pulling");
 	}
 
 }
