@@ -5,6 +5,7 @@ public class SimpleClass {
 		// TODO Auto-generated method stub
 System.out.println("Hello Eclipse");
 System.out.println("Another Line After Commit");
+		System.out.println("Another Line From Git");
 	}
 
 }
